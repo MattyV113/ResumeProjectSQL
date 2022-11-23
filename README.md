@@ -2,7 +2,8 @@
 
 A collection of Data Analysis projects from data cleaning, analysis and web scraping.
 
-COVID Correlation Project
+## COVID Correlation Project
+
 I always wondered what the correlation between COVID Deaths, and COVID Vaccination rates were not only in the US, but all over the world. I looked to answer this by finding a dataset from the Our World in Data site, and then proceeding to analyze this data through a number of SQL scripts in order to determine a number of different correlation factors pertaining to COVID Vaccination rates, and the COVID deaths associated with a particular country. 
 
 I then took this data that was cleaned, filtered, and analyzed, and put together a Tableau Dashboard to better visualize these findings. 
