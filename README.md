@@ -22,7 +22,6 @@ Strong problem-solving and critical thinking skills
 
 Impact:
 
-Identified key risk factors associated with COVID-19, which can help public health officials develop targeted interventions to mitigate the spread of the disease.
-Developed a predictive model to estimate the probability of COVID-19 infection based on identified risk factors, which can help inform public health policy and resource allocation.
-Contributed to the broader scientific understanding of COVID-19 risk factors and the correlation between these factors, which can help inform future research efforts.
+Identified key risk factors associated with COVID-19 death, which can help public health officials develop targeted interventions to mitigate the spread of the disease.
+Developed a dashboard with clean and concise visualizations thar provide deatiled insights on COVID-19 deaths around the world.
 
