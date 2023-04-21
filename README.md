@@ -10,8 +10,7 @@ Project Description:
 
 Conducted a comprehensive analysis of COVID-19 risk factors by analyzing various datasets including demographic data, medical history, and lifestyle factors.
 Utilized statistical software and techniques such as correlation analysis, regression analysis, and data visualization to identify the most significant risk factors associated with COVID-19.
-Developed and implemented a predictive model to estimate the probability of COVID-19 infection based on identified risk factors.
-Communicated findings to stakeholders through visualizations, reports, and presentations.
+
 
 Skills Utilized:
 
