@@ -24,3 +24,6 @@ Impact:
 Identified key risk factors associated with COVID-19 death, which can help public health officials develop targeted interventions to mitigate the spread of the disease.
 Developed a dashboard with clean and concise visualizations thar provide deatiled insights on COVID-19 deaths around the world.
 
+
+Result of Analysis:
+https://public.tableau.com/app/profile/matt.vines/viz/CovidDashboardProject_16433186044370/Dashboard1?publish=yes
